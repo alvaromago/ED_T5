@@ -5,8 +5,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
-import es.studium.mvcEJ1.Modelo;
-import es.studium.mvcEJ1.Vista;
 
 public class Controlador implements WindowListener, ActionListener
 {
